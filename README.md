@@ -1,4 +1,4 @@
 # testIng
 
 it is for research
-it is for cevelopment
+it is for development
